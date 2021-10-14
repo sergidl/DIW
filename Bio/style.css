@@ -4,17 +4,14 @@
     color: #333333;
     text-align: center;
 }
-
 header{
     padding-top: 10px;
     padding-bottom: 1px;
 
 }
-
 img{
     margin-top: -10px;
 }
-
 .life,li,ul,article,header,header>*,li>*,.life>*,p>b{
     background-color: #EEEEEE;
 }
@@ -24,15 +21,12 @@ img{
 .life>h3{
     padding-bottom: 20px;
 }
-
 ul{
     padding-left: 20%;
 }
-
 h4,li>p{
     text-align:left;
 }
-
 img{
     border-radius: 100%;
 }
